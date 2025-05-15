@@ -36,7 +36,3 @@ No additional configuration is needed beyond running the cells sequentially.
 - Extend support to multi-class intrusion detection (e.g., R2L, U2R, Probe)
 - Test deployment in real-time network simulation environments
 - Explore alternative RL algorithms like Proximal Policy Optimization (PPO) or Actor-Critic methods for improved performance
-
-## License
-
-MIT License
